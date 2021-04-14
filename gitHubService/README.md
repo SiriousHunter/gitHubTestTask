@@ -21,25 +21,25 @@ Express.js + MySQL
   
 
 ### response 
-[
-    {
-        "id": 1,
-        "name": "freeCodeCamp",
-        "stars": 322798,
-        "watchers": 322798,
-        "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-        "gitId": 28457823
-    },
-    {
-        "id": 9,
-        "name": "free-programming-books",
-        "stars": 182859,
-        "watchers": 182859,
-        "url": "https://github.com/EbookFoundation/free-programming-books",
-        "gitId": 13491895
-    },
-    ...
-]
+                        [
+                                {
+                                "id": 1,
+                                "name": "freeCodeCamp",
+                                "stars": 322798,
+                                "watchers": 322798,
+                                "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+                                "gitId": 28457823
+                            },
+                            {
+                                "id": 9,
+                                "name": "free-programming-books",
+                                "stars": 182859,
+                                "watchers": 182859,
+                                "url": "https://github.com/EbookFoundation/free-programming-books",
+                                "gitId": 13491895
+                            },
+                            ...
+                        ]
 
 
 ## GET /api/sync
